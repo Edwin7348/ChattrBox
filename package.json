@@ -8,6 +8,11 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "browserify": {
+ "transform": [
+ ["babelify", {"presets": ["es2015"], "sourceMap": true}]
+ ]
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Edwin7348/ChattrBox.git"
@@ -19,7 +24,12 @@
   },
   "homepage": "https://github.com/Edwin7348/ChattrBox#readme",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^8.0.0",
+    "browserify": "^16.2.2",
+    "nodemon": "^1.18.3",
+    "watchify": "^3.11.0"
   },
   "dependencies": {
     "ws": "^6.0.0"
