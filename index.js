@@ -6,27 +6,32 @@ var http = require('http');
 var fs = require('fs');
 
 // will handle paths
-var path = require('path');
+var extract = require('./extract');
+
+// this will handle a 404 error when the file is not found
+var handleError = function(err,res){
+    res.writeHead(404);
+    res.end();
+};
 
 
 var server = http.createServer(function(req,res){
     console.log("responding to a request");
-    var url = req.url;
+    
 
-   var fileNmae = 'index.html';
-   if(url.length > 1){
-       // if the length is more than 1 which would be"/example.html"
-       // we need to strip the url of the first char which is '/'
-       fileName = url.substring(1);
+   var filePath = extract(req.url);
 
-   }
-   console.log(fileName); 
-
-   // this allows us to use the path module to better handle the paths that might include forward slashes or back slashes
-   // __dirname has 2 undersocres before it
-   var filePath = path.resolve(__dirname, 'app',fileName);
+   
    fs.readFile(filePath, function(err,data){
-        res.end(data);
+        
+        if(err){
+            handleError(err,res);
+            return;
+        } else{
+            res.end(data);
+        }
+    
+       
    });
 
 });
