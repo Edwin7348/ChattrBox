@@ -8,6 +8,8 @@ var fs = require('fs');
 // will handle paths
 var extract = require('./extract');
 
+var wss = require('./websockets-server');
+
 // this will handle a 404 error when the file is not found
 var handleError = function(err,res){
     res.writeHead(404);
@@ -26,6 +28,8 @@ var server = http.createServer(function(req,res){
         
         if(err){
             handleError(err,res);
+
+
             return;
         } else{
             res.end(data);

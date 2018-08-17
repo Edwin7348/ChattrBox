@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Edwin7348/ChattrBox#readme",
   "devDependencies": {
     "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "ws": "^6.0.0"
   }
 }
