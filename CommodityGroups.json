@@ -1,0 +1,2514 @@
+[
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Citrus Fruits",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440001",
+        "name": "Grapefruit"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440002",
+        "name": "Lemons"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440003",
+        "name": "Limes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440004",
+        "name": "Mandarins (inc clementines & similar hybrids)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440005",
+        "name": "Oranges"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440006",
+        "name": "Pomelos"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440007",
+        "name": "Other citrus fruits"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "Tree Nuts",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440009",
+        "name": "Almonds including ground almonds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440010",
+        "name": "Apricot kernels"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440011",
+        "name": "Brazil nuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440012",
+        "name": "Cashew nuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440013",
+        "name": "Chestnuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440014",
+        "name": "Coconut - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440015",
+        "name": "Coconut - desiccated, dried, flour"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440016",
+        "name": "Coconut juice, milk, cream or water"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440017",
+        "name": "Coconut - other products (yoghurt etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440018",
+        "name": "Hazelnuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440019",
+        "name": "Macadamia nuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440020",
+        "name": "Pecans"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440021",
+        "name": "Pine nuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440022",
+        "name": "Pistachios"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440023",
+        "name": "Walnuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440024",
+        "name": "Other tree nuts & mixed nuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440025",
+        "name": "Nut spreads and butters (except peanut)"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440026",
+    "name": "Pome Fruit",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440027",
+        "name": "Apples - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440028",
+        "name": "Pears - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440029",
+        "name": "Quinces"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440030",
+        "name": "Medlars"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440031",
+        "name": "Loquats"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440032",
+        "name": "Other pome fruit"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440033",
+    "name": "Stone Fruit",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440034",
+        "name": "Apricots - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440035",
+        "name": "Cherries - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440036",
+        "name": "Peaches (& similar hybrids)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440037",
+        "name": "Plums - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440038",
+        "name": "Nectarines"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440039",
+        "name": "Other stone fruit"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440040",
+    "name": "Berries and Small Fruit",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440041",
+        "name": "Table grapes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440042",
+        "name": "Wine grapes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440043",
+        "name": "Strawberries - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440044",
+        "name": "Blackberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440045",
+        "name": "Dewberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440046",
+        "name": "Loganberries, boysenberries and other hybrids"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440047",
+        "name": "Raspberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440048",
+        "name": "Other cane fruit"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440049",
+        "name": "Blueberries - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440050",
+        "name": "Cranberries - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440051",
+        "name": "Currants (black, red, white)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440052",
+        "name": "Goji berries (wolfberry) - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440053",
+        "name": "Gooseberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440054",
+        "name": "Rosehips"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440055",
+        "name": "Mulberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440056",
+        "name": "Azarole (mediterranean medlar)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440057",
+        "name": "Elderberries"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440058",
+        "name": "Other small fruit & berries"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440059",
+    "name": "Dried Fruits and Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440060",
+        "name": "Vine fruits - currants"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440061",
+        "name": "Vine fruits - raisins"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440062",
+        "name": "Vine fruits - sultanas"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440063",
+        "name": "Apricots - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440064",
+        "name": "Dates - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440065",
+        "name": "Figs - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440066",
+        "name": "Papaya - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440067",
+        "name": "Pears - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440068",
+        "name": "Pineapple - dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440069",
+        "name": "Prunes - dried plums"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440070",
+        "name": "Tomatoes - dried (sundried, sunblush)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440071",
+        "name": "Other dried or candied fruits and mixed dried fruits"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440072",
+        "name": "Dried vegetables - various"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440073",
+    "name": "Miscellaneous Fruit - Edible Peel",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440074",
+        "name": "Carambola (star fruit)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440075",
+        "name": "Dates - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440076",
+        "name": "Dragonfruit (pitahaya)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440077",
+        "name": "Figs - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440078",
+        "name": "Jambolan (java plum)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440079",
+        "name": "Kumquats"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440080",
+        "name": "Olives (table consumption)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440081",
+        "name": "Persimmon - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440082",
+        "name": "Other misc. fruit - edible peel"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440083",
+    "name": "Miscellaneous Fruit - Inedible Peel, Small",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440084",
+        "name": "American persimmon (Virginia kaki)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440085",
+        "name": "Kiwi fruit - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440086",
+        "name": "Longans"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440087",
+        "name": "Litchis (lychee)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440088",
+        "name": "Passion fruit, granadilla, maracujá"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440089",
+        "name": "Prickly pear"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440090",
+        "name": "Rambutans"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440091",
+        "name": "Star apple"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440092",
+        "name": "Tamarillo"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440093",
+        "name": "Other misc. fruit - inedible peel, small"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440094",
+    "name": "Miscellaneous Fruit - Inedible Peel, Large",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440095",
+        "name": "Avocados"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440096",
+        "name": "Bananas & plantains"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440097",
+        "name": "Bread fruit"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440098",
+        "name": "Cherimoya"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440099",
+        "name": "Durian"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440100",
+        "name": "Guava - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440101",
+        "name": "Mangoes - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440102",
+        "name": "Papaya (pawpaw)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440103",
+        "name": "Pineapples"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440104",
+        "name": "Pomegranates"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440105",
+        "name": "Soursop (guanabana)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440106",
+        "name": "Other misc. fruit - inedible peel, large"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440107",
+    "name": "Root and Tuber Vegetables - Potatoes",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440108",
+        "name": "Early potatoes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440109",
+        "name": "Ware potatoes"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440110",
+    "name": "Root and Tuber Vegetables - Tropical",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440111",
+        "name": "Cassava, manioc, tapioca and products"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440112",
+        "name": "Dasheen, taro & eddoes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440113",
+        "name": "Sweet potatoes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440114",
+        "name": "Yams"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440115",
+        "name": "Other tropical root & tuber vegetables"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440116",
+    "name": "Root and Tuber Vegetables - Temperate",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440117",
+        "name": "Beetroot"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440118",
+        "name": "Carrots"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440119",
+        "name": "Celeriac"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440120",
+        "name": "Chicory (root)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440121",
+        "name": "Jerusalem artichokes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440122",
+        "name": "Parsnips"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440123",
+        "name": "Parsley root"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440124",
+        "name": "Radishes incl. daikon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440125",
+        "name": "Salsify"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440126",
+        "name": "Swedes and rutabaga"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440127",
+        "name": "Turnips"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440128",
+        "name": "Other temperate root & tuber vegetables"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440129",
+    "name": "Bulb Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440130",
+        "name": "Garlic, fresh, powder and paste"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440131",
+        "name": "Onions"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440132",
+        "name": "Shallots"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440133",
+        "name": "Spring onions, Welsh onions, scallions"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440134",
+        "name": "Other bulb vegetables"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440135",
+    "name": "Fruiting Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440136",
+        "name": "Aubergines (egg plant, brinjal)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440137",
+        "name": "Pepinos"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440138",
+        "name": "Peppers (sweet or bell) - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440139",
+        "name": "Chilli peppers - fresh or dried"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440140",
+        "name": "Tomatoes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440141",
+        "name": "Tomatillo (ground cherry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440142",
+        "name": "Other solanacea"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440143",
+        "name": "Bitter melon (balsam pear)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440144",
+        "name": "Courgettes, zucchini, summer squash"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440145",
+        "name": "Cucumbers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440146",
+        "name": "Gherkins"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440147",
+        "name": "Mexican squash (choyote or christophine)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440148",
+        "name": "Other cucurbits-edible peel"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440149",
+        "name": "Melons, cantaloupes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440150",
+        "name": "Pumpkins & squashes (winter squash, marrows)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440151",
+        "name": "Watermelons"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440152",
+        "name": "Other cucurbits-inedible peel"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440153",
+        "name": "Okra (bhindi, gumbo, ladies fingers)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440154",
+        "name": "Sweetcorn and baby corn"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440155",
+    "name": "Brassica Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440156",
+        "name": "Broccoli, calabrese"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440157",
+        "name": "Cauliflower"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440158",
+        "name": "Chinese broccoli/kale, kai lan, gai lan, cai ro and choi sum"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440159",
+        "name": "Brussels sprouts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440160",
+        "name": "Other flowering brassicas"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440161",
+        "name": "Head cabbage"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440162",
+        "name": "Other head brassicas"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440163",
+        "name": "Chinese cabbage and pak choi, bok choi"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440164",
+        "name": "Kale (includes collards)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440165",
+        "name": "Other leafy brassicas"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440166",
+        "name": "Kohlrabi"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440167",
+    "name": "Leaf Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440168",
+        "name": "Cress"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440169",
+        "name": "Microgreens (other than cress)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440170",
+        "name": "Lambs lettuce (corn salad)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440171",
+        "name": "Land cress"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440172",
+        "name": "Lettuce"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440173",
+        "name": "Red mustard"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440174",
+        "name": "Ruccola (rocket, arugula)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440175",
+        "name": "Leaves and stems of brassica"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440176",
+        "name": "Scarole (broad-leaf endive) & frisée"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440177",
+        "name": "Other lettuce-like and salad vegetables"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440178",
+        "name": "Spinach"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440179",
+        "name": "Beet leaves (chard)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440180",
+        "name": "Purslane"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440181",
+        "name": "Other spinach-like leaf vegetables"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440182",
+        "name": "Vine leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440183",
+        "name": "Watercress"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440184",
+        "name": "Ong choi (fresh water spinach)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440185",
+        "name": "Witloof (chicory) and forced radicchio"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440186",
+        "name": "Other leaf vegetables (not lettuce or spinach-like)"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440187",
+    "name": "Fresh Herbs",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440188",
+        "name": "Basil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440189",
+        "name": "Bay leaves (sweet bay, laurel)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440190",
+        "name": "Celery leaves (Chinese celery)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440191",
+        "name": "Centella (Asiatic pennywort, gotu kola)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440192",
+        "name": "Chervil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440193",
+        "name": "Chives"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440194",
+        "name": "Coriander leaves (cilantro)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440195",
+        "name": "Curry leaves (Bergera/Murraya koenigii)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440196",
+        "name": "Dill leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440197",
+        "name": "Lemongrass"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440198",
+        "name": "Marjoram"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440199",
+        "name": "Mint"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440200",
+        "name": "Oregano"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440201",
+        "name": "Paan leaves (Betel)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440202",
+        "name": "Parsley"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440203",
+        "name": "Perilla"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440204",
+        "name": "Rosemary"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440205",
+        "name": "Sage"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440206",
+        "name": "Tarragon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440207",
+        "name": "Thyme"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440208",
+        "name": "Other herbs - fresh"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440209",
+        "name": "Other herbs - dried"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440210",
+    "name": "Legume Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440211",
+        "name": "Beans with pods (French: P. vulgaris type), haricots verts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440212",
+        "name": "Beans with pods (yard long, asparagus, valor, papri, ethnic)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440213",
+        "name": "Beans without pods (broad etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440214",
+        "name": "Peas with pods (snap, snow, mange tout)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440215",
+        "name": "Peas without pods"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440216",
+        "name": "Other legume vegetables"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440217",
+    "name": "Stem Vegetables",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440218",
+        "name": "Asparagus"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440219",
+        "name": "Cardoons"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440220",
+        "name": "Celery"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440221",
+        "name": "Fennel"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440222",
+        "name": "Globe artichokes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440223",
+        "name": "Leeks"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440224",
+        "name": "Rhubarb"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440225",
+        "name": "Bamboo shoots"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440226",
+        "name": "Palm hearts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440227",
+        "name": "Nopales (cactus pads)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440228",
+        "name": "Other stem vegetables"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440229",
+    "name": "Fungi",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440230",
+        "name": "Cultivated mushrooms and fungi"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440231",
+        "name": "Wild mushrooms and fungi"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440232",
+        "name": "Yeast and yeast products"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440233",
+    "name": "Pulses",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440234",
+        "name": "Beans (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440235",
+        "name": "Chickpeas (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440236",
+        "name": "Lentils (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440237",
+        "name": "Lupins (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440238",
+        "name": "Peas (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440239",
+        "name": "Other pulses (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440240",
+        "name": "Pulse products"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440241",
+        "name": "Guar gum"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440242",
+    "name": "Oilseeds",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440243",
+        "name": "Linseed (flaxseed)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440244",
+        "name": "Peanuts (groundnuts)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440245",
+        "name": "Poppy seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440246",
+        "name": "Sesame seed, tahini & halva"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440247",
+        "name": "Sunflower seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440248",
+        "name": "Rape seed (canola)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440249",
+        "name": "Soya bean"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440250",
+        "name": "Mustard seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440251",
+        "name": "Cotton seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440252",
+        "name": "Safflower seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440253",
+        "name": "Hemp seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440254",
+        "name": "Borage seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440255",
+        "name": "Castor seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440256",
+        "name": "Other oilseeds"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440257",
+    "name": "Oilfruits",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440258",
+        "name": "Olives (oil extract)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440259",
+        "name": "Palm nuts (palmoil kernels)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440260",
+        "name": "Palmfruit"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440261",
+        "name": "Kapok"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440262",
+        "name": "Oilseed products (other than oil)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440263",
+        "name": "Lecithins (soya, sunflower etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440264",
+        "name": "Peanut butter"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440265",
+        "name": "Soya bean curd (tofu)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440266",
+        "name": "Soya protein"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440267",
+        "name": "Soya milk and milk products (yoghurt etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440268",
+        "name": "Other oilseed products"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440269",
+    "name": "Tea, Coffee, Cocoa, Carobs",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440270",
+        "name": "Carob"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440271",
+        "name": "Cocoa beans & cocoa powder"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440272",
+        "name": "Coffee beans - green"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440273",
+        "name": "Coffee beans - roasted, whole"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440274",
+        "name": "Coffee beans - roasted, ground"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440275",
+        "name": "Tea - black, oolong"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440276",
+        "name": "Tea - green, yellow, white"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440277",
+        "name": "Herbal infusions (dried) - flowers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440278",
+        "name": "Chamomile flowers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440279",
+        "name": "Hibiscus flowers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440280",
+        "name": "Jasmine flowers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440281",
+        "name": "Lime (linden)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440282",
+        "name": "Rose petals"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440283",
+        "name": "Other herbal dried flowers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440284",
+        "name": "Herbal infusions (dried) - leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440285",
+        "name": "Maté"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440286",
+        "name": "Rooibos leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440287",
+        "name": "Strawberry leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440288",
+        "name": "Other herbal dried leaves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440289",
+        "name": "Herbal infusions (dried) - roots"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440290",
+        "name": "Ginseng root"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440291",
+        "name": "Valerian root"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440292",
+        "name": "Other herbal dried roots"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440293",
+        "name": "Herbal infusions - other"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440294",
+        "name": "Herbals teas - mixed or unspecified"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440295",
+        "name": "Hops"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440296",
+        "name": "Hops (dried) including hop pellets & unconcentrated powder)"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440297",
+    "name": "Spices - Seeds",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440298",
+        "name": "Anise"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440299",
+        "name": "Black cumin (kalonji - Nigella sativa)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440300",
+        "name": "Celery seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440301",
+        "name": "Coriander seed and ground (dhania)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440302",
+        "name": "Cumin seed and ground (jeera)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440303",
+        "name": "Dill seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440304",
+        "name": "Fennel seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440305",
+        "name": "Fenugreek seed and ground"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440306",
+        "name": "Nutmeg whole and ground"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440307",
+        "name": "Other spices - seeds"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440308",
+    "name": "Spices - Fruits and Berries",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440309",
+        "name": "Allspice (pimento)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440310",
+        "name": "Szechuan pepper (Japan or Sichuan pepper)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440311",
+        "name": "Caraway"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440312",
+        "name": "Cardamom"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440313",
+        "name": "Juniper seed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440314",
+        "name": "Paprika and chilli powder"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440315",
+        "name": "Pepper, black, pink and white"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440316",
+        "name": "Star anise"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440317",
+        "name": "Tamarind"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440318",
+        "name": "Vanilla pods, vanilla paste"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440319",
+        "name": "Other spices - fruits and berries"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440320",
+    "name": "Spices - Bark",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440321",
+        "name": "Cinnamon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440322",
+        "name": "Other spices - bark"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440323",
+    "name": "Spices - Roots or Rhizome",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440324",
+        "name": "Ginger"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440325",
+        "name": "Horseradish"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440326",
+        "name": "Liquorice root"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440327",
+        "name": "Turmeric (haldi), curcuma"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440328",
+        "name": "Other spices - roots or rhizome"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440329",
+    "name": "Spices - Buds",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440330",
+        "name": "Cloves"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440331",
+        "name": "Capers"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440332",
+        "name": "Other spices - buds"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440333",
+    "name": "Spices - Flower Stigma",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440334",
+        "name": "Saffron"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440335",
+        "name": "Other spices - flower stigma"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440336",
+    "name": "Spices - Aril",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440337",
+        "name": "Mace"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440338",
+        "name": "Other spices - aril"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440339",
+    "name": "Spices - Gums and Resins",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440340",
+        "name": "Asafoetida"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440341",
+        "name": "Other spices - gums and resins"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440342",
+    "name": "Spices - Mixtures/Blends",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440343",
+        "name": "Spice mixtures/other spices, curry powder"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440344",
+    "name": "Cereals - Unprocessed",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440345",
+        "name": "Wheat (including spelt)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440346",
+        "name": "Rye"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440347",
+        "name": "Barley"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440348",
+        "name": "Sorghum"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440349",
+        "name": "Oats"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440350",
+        "name": "Triticale"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440351",
+        "name": "Maize (yellow corn)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440352",
+        "name": "Buckwheat"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440353",
+        "name": "Millet"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440354",
+        "name": "Rice"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440355",
+        "name": "Quinoa"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440356",
+        "name": "Other cereals"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440357",
+    "name": "Other Seeds - Unprocessed (excluding pulses)",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440358",
+        "name": "Cassia seeds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440359",
+        "name": "Chia seeds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440360",
+        "name": "Grapefruit seeds (& extract - GSE)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440361",
+        "name": "Lotus seeds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440362",
+        "name": "Melon (egusi) seeds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440363",
+        "name": "Pumpkin seeds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440364",
+        "name": "Other seeds - not listed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440365",
+        "name": "Other seeds - sprouted"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440366",
+        "name": "Alfalfa sprouts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440367",
+        "name": "Bean sprouts (mung beans)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440368",
+        "name": "Other sprouted seeds and mixed sprouts"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440369",
+    "name": "Sugar Plants",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440370",
+        "name": "Sugar beet"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440371",
+        "name": "Sugar cane"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440372",
+        "name": "Chicory roots (for inulin production)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440373",
+        "name": "Other sugar plants"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440374",
+    "name": "Cereals - Processed",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440375",
+        "name": "Bran (all cereals)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440376",
+        "name": "Germ (all cereals)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440377",
+        "name": "Gluten (all cereals)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440378",
+        "name": "Malt (all cereals)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440379",
+        "name": "Flour (all cereals except maize)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440380",
+        "name": "Other processed cereals (rusk, meal etc. excluding breading mixes)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440381",
+        "name": "Semolina, couscous, farina"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440382",
+        "name": "Breads"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440383",
+        "name": "Pastries, biscuits, cakes etc."
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440384",
+        "name": "Cereal snacks (other than maize-based)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440385",
+        "name": "Breakfast cereals (other than maize-based)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440386",
+        "name": "Cereal snacks (maize-based)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440387",
+        "name": "Breakfast cereals (maize-based)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440388",
+        "name": "Pasta and noodles"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440389",
+        "name": "Other processed starch foods"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440390",
+        "name": "Polenta & maize flour/meal & cornmeal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440391",
+        "name": "Other non-cereal flours (chia, chestnut, pumpkin etc)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440392",
+        "name": "Potato starch"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440393",
+        "name": "Sago"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440394",
+        "name": "Tapioca"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440395",
+        "name": "Other/unspecified starches"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440396",
+    "name": "Foods for Infants and Young Children",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440397",
+        "name": "Baby food"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440398",
+        "name": "Infant food"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440399",
+        "name": "Infant formulae"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440400",
+        "name": "Dietary foods for special medical purposes"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440401",
+    "name": "Meat and Meat Products (excluding poultry)",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440402",
+        "name": "Meat - bovine (beef, veal, cow)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440403",
+        "name": "Meat - caprine (goat, kid)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440404",
+        "name": "Meat - equidae (horse)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440405",
+        "name": "Meat - ovine (lamb, mutton, sheep)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440406",
+        "name": "Meat - porcine (pork, pig)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440407",
+        "name": "Meat - deer, including reindeer (venison)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440408",
+        "name": "Meat - rabbit or hare"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440409",
+        "name": "Meat - amphibian"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440410",
+        "name": "Meat - reptile"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440411",
+        "name": "Meat - other, mixed or unspecified"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440412",
+        "name": "Meat products - pork hams (Parma, Serrano, Iberico, York etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440413",
+        "name": "Meat products - sausages (fuet, chorizo, salame etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440414",
+        "name": "Meat products and meat preparations - other"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440415",
+        "name": "Meat, minced, ground - bovine (beef, veal, cow)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440416",
+        "name": "Meat, minced, ground - ovine (lamb, mutton, sheep)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440417",
+        "name": "Meat, minced, ground - porcine (pork, pig)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440418",
+        "name": "Meat, minced, ground - equidae (horse)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440419",
+        "name": "Meat, minced, ground - mixed or unspecified"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440420",
+        "name": "Offal - bovine (beef, veal, cow)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440421",
+        "name": "Offal - caprine (goat, kid)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440422",
+        "name": "Offal - equidae (horse)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440423",
+        "name": "Offal - ovine (lamb, mutton, sheep)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440424",
+        "name": "Offal - porcine (pork, pig)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440425",
+        "name": "Offal - deer, including reindeer"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440426",
+        "name": "Offal - rabbit or hare"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440427",
+        "name": "Offal - mixed or unspecified"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440428",
+    "name": "Poultry Meat and Poultry Products",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440429",
+        "name": "Meat - chicken"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440430",
+        "name": "Meat - turkey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440431",
+        "name": "Meat - duck"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440432",
+        "name": "Meat - goose"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440433",
+        "name": "Meat - guinea fowl"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440434",
+        "name": "Meat - pheasant"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440435",
+        "name": "Meat - pigeon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440436",
+        "name": "Meat - other game birds"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440437",
+        "name": "Poultry meat products - sausages"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440438",
+        "name": "Poultry meat products - other (pâté, burgers,  etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440439",
+        "name": "Meat, minced, ground - chicken"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440440",
+        "name": "Meat, minced, ground - turkey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440441",
+        "name": "Eggs"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440442",
+        "name": "Eggs - dried/powdered/liquid"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440443",
+        "name": "Offal - chicken"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440444",
+        "name": "Offal - turkey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440445",
+        "name": "Offal - duck"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440446",
+        "name": "Offal - goose"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440447",
+        "name": "Offal - pheasant"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440448",
+        "name": "Offal - pidgeon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440449",
+        "name": "Offal - other game birds"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440450",
+    "name": "Products of Animal Origin (other)",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440451",
+        "name": "Meat - snails"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440452",
+        "name": "Gelatine"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440453",
+        "name": "Honey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440454",
+        "name": "Royal jelly, bee pollen, propolis"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440455",
+        "name": "Bee larvae and other insects"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440456",
+    "name": "Products of Animal Origin (Dairy)",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440457",
+        "name": "Milk - bovine (cow)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440458",
+        "name": "Milk - caprine (goat)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440459",
+        "name": "Milk - ovine (sheep)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440460",
+        "name": "Milk products - condensed milk"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440461",
+        "name": "Milk products - cream"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440462",
+        "name": "Milk products - butter and ghee"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440463",
+        "name": "Milk products - cheese"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440464",
+        "name": "Milk products - yoghurt"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440465",
+        "name": "Milk products - milk powder"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440466",
+        "name": "Milk products - whey powder"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440467",
+        "name": "Milk products - ice-cream (& similar frozen confections)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440468",
+        "name": "Milk products - milk-based beverages"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440469",
+        "name": "Milk products - others (e.g. caseins)"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440470",
+    "name": "Seafood",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440471",
+        "name": "Fish - fresh/frozen"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440472",
+        "name": "Fish - smoked/cured/dried or otherwise preserved"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440473",
+        "name": "Crustaceans (crab, shrimps, prawns etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440474",
+        "name": "Bivalve molluscs (mussels, clams, shellfish)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440475",
+        "name": "Cephalopods (octopus, squid etc.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440476",
+        "name": "Seaweed, algae, carrageenan"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440477",
+        "name": "Surimi"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440478",
+        "name": "Other sea food"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440479",
+    "name": "Oils and Fats",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440480",
+        "name": "Fat - bovine (beef, veal, cow)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440481",
+        "name": "Fat - caprine (goat, kid)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440482",
+        "name": "Fat - equidae (horse)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440483",
+        "name": "Fat - ovine (lamb, mutton, sheep)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440484",
+        "name": "Fat - porcine (pork, pig)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440485",
+        "name": "Fat - deer, including reindeer"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440486",
+        "name": "Fat - rabbit or hare"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440487",
+        "name": "Fat - chicken"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440488",
+        "name": "Fat - turkey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440489",
+        "name": "Fat - duck"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440490",
+        "name": "Fat - goose"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440491",
+        "name": "Fat - pheasant"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440492",
+        "name": "Fat - pigeon"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440493",
+        "name": "Fat - mixed animal fats"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440494",
+        "name": "Milk fat"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440495",
+        "name": "Olive oil (excluding infused oils)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440496",
+        "name": "Palm oil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440497",
+        "name": "Pepper oil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440498",
+        "name": "Rapeseed (canola) oil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440499",
+        "name": "Soybean oil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440500",
+        "name": "Sunflower oil"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440501",
+        "name": "Other vegetable and fruit oils, fats and infused oils"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440502",
+        "name": "Fish oil"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440503",
+    "name": "Canned Foods",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440504",
+        "name": "Canned foods - fruit"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440505",
+        "name": "Canned foods - meals"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440506",
+        "name": "Canned foods - meat"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440507",
+        "name": "Canned foods - seafood"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440508",
+        "name": "Canned foods - soups"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440509",
+        "name": "Canned foods - vegetables"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440510",
+        "name": "Canned foods - other"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440511",
+        "name": "Canned beverages"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440512",
+    "name": "Beverages",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440513",
+        "name": "Apple juice & concentrate"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440514",
+        "name": "Orange juice & concentrate"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440515",
+        "name": "Other or mixed fruit juices"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440516",
+        "name": "Other concentrated fruit juices"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440517",
+        "name": "Vegetable juices"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440518",
+        "name": "Fruit nectars"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440519",
+        "name": "Fruit-flavoured soft drinks (not canned)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440520",
+        "name": "Fruit-flavoured alcoholic drinks (not canned)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440521",
+        "name": "Wines (red, white, rose, sparkling, fortified)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440522",
+        "name": "Beers (not canned)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440523",
+        "name": "Cider, perry (not canned)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440524",
+        "name": "Mead"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440525",
+        "name": "Spirits and liqueurs"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440526",
+        "name": "Mineral water"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440527",
+        "name": "Water intended for human consumption"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440528",
+        "name": "Soluble coffee (instant coffee)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440529",
+        "name": "Other beverages (not canned) - liquid"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440530",
+        "name": "Other beverages (not canned) - powder"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440531",
+    "name": "Processed Foods",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440532",
+        "name": "Hydrolysed vegetable protein"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440533",
+        "name": "Soy sauce"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440534",
+        "name": "Jams, jellies and marmalades and other processed fruit-based foods"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440535",
+        "name": "Sugar-based confectionery"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440536",
+        "name": "Chocolate-based confectionery (except spreads)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440537",
+        "name": "Confectionery - other"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440538",
+        "name": "Vinegar"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440539",
+        "name": "Mustard"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440540",
+        "name": "Pickles, chutney (various, usually in jars)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440541",
+        "name": "Tomato sauce, paste, puree, tomatade, ketchup"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440542",
+        "name": "Other sauces (various, usually in jars)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440543",
+        "name": "Soups (chilled)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440544",
+        "name": "Soup mixes (dry)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440545",
+        "name": "Spreads and similar foods (except meat or nut)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440546",
+        "name": "Liquorice extract"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440547",
+        "name": "Frozen ready meals"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440548",
+        "name": "Part-cooked chilled ready meals"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440549",
+        "name": "Prepared fresh fruit (single or mixed)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440550",
+        "name": "Prepared fresh vegetables (veg spagetti etc)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440551",
+        "name": "Gluten-free products"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440552",
+        "name": "Other prepared foods"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440553",
+        "name": "Snack foods"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440554",
+        "name": "Dry ingredient mixes (batter, breading, custard, muffin etc.) and dough"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440555",
+    "name": "Sugars",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440556",
+        "name": "Sugars - as defined in Directive 2001/111/EC, treacle, molasses and other sugars"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440557",
+        "name": "Sugars - syrups, flavoured syrups and similar products"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440558",
+    "name": "Chemicals Used in Foods",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440559",
+        "name": "Ascorbic acid (vitamin C)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440560",
+        "name": "Chemicals excl. colourings, enzymes & flavourings"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440561",
+        "name": "Colourings other than synthetic colourings"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440562",
+        "name": "Synthetic colourings"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440563",
+        "name": "Enzymes"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440564",
+        "name": "Natural flavourings"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440565",
+        "name": "Synthetic flavourings"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440566",
+        "name": "Salt (including sea salt and flavoured salts)"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440567",
+    "name": "Novel Foods",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440568",
+        "name": "Nangai nuts (Canarium indicum L.)"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440569",
+        "name": "Noni juice"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440570",
+        "name": "Stevia rebaudiana Bertoni"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440571",
+        "name": "Other novel foods"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440572",
+    "name": "Food and Dietary Supplements",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440573",
+        "name": "Food and dietary supplements"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440574",
+    "name": "Feedstuff",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440575",
+        "name": "Feed materials - animal products"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440576",
+        "name": "Feed materials - cereal-based"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440577",
+        "name": "Feed materials - crustaceans"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440578",
+        "name": "Feed materials - fish meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440579",
+        "name": "Feed materials - groundnuts"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440580",
+        "name": "Feed materials - maize & corn meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440581",
+        "name": "Feed materials - milk & whey"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440582",
+        "name": "Feed materials - palm products"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440583",
+        "name": "Feed materials - poultry & feather meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440584",
+        "name": "Feed materials - rapeseed & meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440585",
+        "name": "Feed materials - soy beans & meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440586",
+        "name": "Feed materials - sugar beet pulp"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440587",
+        "name": "Feed materials - sunflower seed & meal"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440588",
+        "name": "Feed materials - other"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440589",
+        "name": "Feed additives"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440590",
+        "name": "Complementary feed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440591",
+        "name": "Complete feed, pet food"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440592",
+        "name": "Premixtures for use in feed"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440593",
+        "name": "Compound feed"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440594",
+    "name": "Articles in Contact with Foodstuffs",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440595",
+        "name": "Ceramic articles"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440596",
+        "name": "Nylon articles"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440597",
+        "name": "Melamine articles"
+      },
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440598",
+        "name": "Other articles"
+      }
+    ]
+  },
+  {
+    "groupId": "550e8400-e29b-41d4-a716-446655440599",
+    "name": "General Information",
+    "subCommodities": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440600",
+        "name": "General information"
+      }
+    ]
+  }
+]
